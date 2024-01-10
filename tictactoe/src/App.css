@@ -1,0 +1,19 @@
+.board-row{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.board-container{
+  margin:120px;
+}
+
+.winnerbox{
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #000;
+  border-radius: 5px;
+  background-color: #7fe1e7;
+  text-align: center;
+}
